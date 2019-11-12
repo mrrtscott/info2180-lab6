@@ -17,7 +17,7 @@ window.onload = function() {
             if (httpRequest.status === 200) {
                 alert(httpRequest.responseText);
             } else {
-                alert("Something went wrong with the request! Request Status = " + httpRequest.status);
+                alert(httpRequest.status);
             }
         }
     }
