@@ -5,5 +5,5 @@
     </head>
     <body>
         <h1>Avengers Character Search</h1>
-        <button id = "btn">Search</button>
+        <button id = "btnSearch">Search</button>
     </body>
